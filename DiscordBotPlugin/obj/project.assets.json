@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/nat/Documents/vsmods/discordbotplugin/DiscordBotPlugin/DiscordBotPlugin.csproj",
+      "projectUniqueName": "/home/nat/Documents/vsmods/VintageStoryDiscordBot/DiscordBotPlugin/DiscordBotPlugin.csproj",
       "projectName": "DiscordBotPlugin",
-      "projectPath": "/home/nat/Documents/vsmods/discordbotplugin/DiscordBotPlugin/DiscordBotPlugin.csproj",
+      "projectPath": "/home/nat/Documents/vsmods/VintageStoryDiscordBot/DiscordBotPlugin/DiscordBotPlugin.csproj",
       "packagesPath": "/home/nat/.nuget/packages/",
-      "outputPath": "/home/nat/Documents/vsmods/discordbotplugin/DiscordBotPlugin/obj/",
+      "outputPath": "/home/nat/Documents/vsmods/VintageStoryDiscordBot/DiscordBotPlugin/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/nat/.nuget/NuGet/NuGet.Config"

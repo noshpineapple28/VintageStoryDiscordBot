@@ -1,5 +1,6 @@
 {
     "$schema": "https://moddbcdn.vintagestory.at/schema/modinfo.latest.json",
+    "side": "Server",
     "type": "Code",
     "modid": "discordbotplugin",
     "name": "discordbotplugin",

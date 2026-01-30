@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/nat/Documents/vsmods/discordbotplugin/CakeBuild/CakeBuild.csproj": {}
+    "/home/nat/Documents/vsmods/VintageStoryDiscordBot/CakeBuild/CakeBuild.csproj": {}
   },
   "projects": {
-    "/home/nat/Documents/vsmods/discordbotplugin/CakeBuild/CakeBuild.csproj": {
+    "/home/nat/Documents/vsmods/VintageStoryDiscordBot/CakeBuild/CakeBuild.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/nat/Documents/vsmods/discordbotplugin/CakeBuild/CakeBuild.csproj",
+        "projectUniqueName": "/home/nat/Documents/vsmods/VintageStoryDiscordBot/CakeBuild/CakeBuild.csproj",
         "projectName": "CakeBuild",
-        "projectPath": "/home/nat/Documents/vsmods/discordbotplugin/CakeBuild/CakeBuild.csproj",
+        "projectPath": "/home/nat/Documents/vsmods/VintageStoryDiscordBot/CakeBuild/CakeBuild.csproj",
         "packagesPath": "/home/nat/.nuget/packages/",
-        "outputPath": "/home/nat/Documents/vsmods/discordbotplugin/CakeBuild/obj/",
+        "outputPath": "/home/nat/Documents/vsmods/VintageStoryDiscordBot/CakeBuild/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/nat/.nuget/NuGet/NuGet.Config"

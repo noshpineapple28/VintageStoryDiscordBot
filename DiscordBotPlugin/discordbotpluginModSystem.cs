@@ -1,5 +1,4 @@
-﻿using Vintagestory.API.Client;
-using Vintagestory.API.Common;
+﻿using Vintagestory.API.Common;
 using Vintagestory.API.Config;
 using Vintagestory.API.Server;
 
@@ -15,12 +14,13 @@ namespace DiscordBotPlugin
 
         public override void StartServerSide(ICoreServerAPI api)
         {
+            api.Event.PlayerDeath += this.PlayerDeathDelegate;
             Mod.Logger.Notification("Hello from template mod server side");
         }
 
-        public override void StartClientSide(ICoreClientAPI api)
+        public void PlayerDeathDelegate(IServerPlayer byPlayer, DamageSource damageSource)
         {
-            Mod.Logger.Notification("Hello from template mod client side");
+            Mod.Logger.Notification("Hello from template mod client side SOMEONE DIED");
         }
     }
 }

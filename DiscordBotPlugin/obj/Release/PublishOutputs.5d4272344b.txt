@@ -1,0 +1,4 @@
+/home/nat/Documents/vsmods/VintageStoryDiscordBot/DiscordBotPlugin/bin/Release/Mods/mod/publish/modinfo.json
+/home/nat/Documents/vsmods/VintageStoryDiscordBot/DiscordBotPlugin/bin/Release/Mods/mod/publish/DiscordBotPlugin.dll
+/home/nat/Documents/vsmods/VintageStoryDiscordBot/DiscordBotPlugin/bin/Release/Mods/mod/publish/DiscordBotPlugin.deps.json
+/home/nat/Documents/vsmods/VintageStoryDiscordBot/DiscordBotPlugin/bin/Release/Mods/mod/publish/DiscordBotPlugin.pdb
