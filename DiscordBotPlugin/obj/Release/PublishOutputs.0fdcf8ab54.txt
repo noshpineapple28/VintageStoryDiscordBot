@@ -1,0 +1,4 @@
+/home/nat/Documents/vsmods/discordbotplugin/DiscordBotPlugin/bin/Release/Mods/mod/publish/modinfo.json
+/home/nat/Documents/vsmods/discordbotplugin/DiscordBotPlugin/bin/Release/Mods/mod/publish/DiscordBotPlugin.dll
+/home/nat/Documents/vsmods/discordbotplugin/DiscordBotPlugin/bin/Release/Mods/mod/publish/DiscordBotPlugin.deps.json
+/home/nat/Documents/vsmods/discordbotplugin/DiscordBotPlugin/bin/Release/Mods/mod/publish/DiscordBotPlugin.pdb

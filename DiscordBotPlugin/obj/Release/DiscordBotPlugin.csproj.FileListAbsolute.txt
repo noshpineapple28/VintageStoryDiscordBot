@@ -1,0 +1,13 @@
+/home/nat/Documents/vsmods/discordbotplugin/DiscordBotPlugin/bin/Release/Mods/mod/modinfo.json
+/home/nat/Documents/vsmods/discordbotplugin/DiscordBotPlugin/bin/Release/Mods/mod/DiscordBotPlugin.deps.json
+/home/nat/Documents/vsmods/discordbotplugin/DiscordBotPlugin/bin/Release/Mods/mod/DiscordBotPlugin.dll
+/home/nat/Documents/vsmods/discordbotplugin/DiscordBotPlugin/bin/Release/Mods/mod/DiscordBotPlugin.pdb
+/home/nat/Documents/vsmods/discordbotplugin/DiscordBotPlugin/obj/Release/DiscordBotPlugin.csproj.AssemblyReference.cache
+/home/nat/Documents/vsmods/discordbotplugin/DiscordBotPlugin/obj/Release/DiscordBotPlugin.GeneratedMSBuildEditorConfig.editorconfig
+/home/nat/Documents/vsmods/discordbotplugin/DiscordBotPlugin/obj/Release/DiscordBotPlugin.AssemblyInfoInputs.cache
+/home/nat/Documents/vsmods/discordbotplugin/DiscordBotPlugin/obj/Release/DiscordBotPlugin.AssemblyInfo.cs
+/home/nat/Documents/vsmods/discordbotplugin/DiscordBotPlugin/obj/Release/DiscordBotPlugin.csproj.CoreCompileInputs.cache
+/home/nat/Documents/vsmods/discordbotplugin/DiscordBotPlugin/obj/Release/DiscordBotPlugin.dll
+/home/nat/Documents/vsmods/discordbotplugin/DiscordBotPlugin/obj/Release/refint/DiscordBotPlugin.dll
+/home/nat/Documents/vsmods/discordbotplugin/DiscordBotPlugin/obj/Release/DiscordBotPlugin.pdb
+/home/nat/Documents/vsmods/discordbotplugin/DiscordBotPlugin/obj/Release/ref/DiscordBotPlugin.dll
